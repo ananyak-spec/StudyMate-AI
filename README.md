@@ -1,4 +1,7 @@
 # 🎓 StudyMate AI
+## 📸 App Preview
+
+![StudyMate AI](screenshots/mainscreen.png)
 
 StudyMate AI is an AI-powered student utility application that helps students understand concepts, summarize notes, generate quizzes, and improve written answers.
 
